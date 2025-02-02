@@ -19,6 +19,7 @@ As a data analyst, I specialize in analyzing and interpreting complex data sets 
 
 ## 📚 Education and Certifications
 
+-   **M.sc. in Business Analytics** - University of Louisville, Kentucky, USA (2025-2026)
 -   **B.sc. in Information Technology (Computational Mathematics)** - Michigan State University, Michigan, USA (2014-2019)
 -   **Data Analysis and Visualization (Using Python)** - Udacity, Michigan, USA (2022)
 -   **Data Analysis and Visualization (Using SQL)** - Udacity, Michigan, USA (2022)
